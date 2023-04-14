@@ -52,7 +52,7 @@ This repo collects the research resources based on CLIP (Contrastive Language-Im
 - [DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting](https://arxiv.org/pdf/2112.01518.pdf) [[code](https://github.com/raoyongming/DenseCLIP)]
 - [CyCLIP: Cyclic Contrastive Language-Image Pretraining](https://arxiv.org/pdf/2205.14459v1.pdf) [[code](https://github.com/goel-shashank/CyCLIP)]
 - [CLIP-ViP: Adapting Pre-trained Image-Text Model to Video-Language Representation Alignment](https://arxiv.org/pdf/2209.06430.pdf) [[code](https://github.com/microsoft/XPretrain/tree/main/CLIP-ViP)]
-- [DetCLIP: Dictionary-Enriched Visual-Concept Paralleled Pre-training for Open-world Detection](https://arxiv.org/pdf/2209.09407.pdf) [[code](https://github.com/Sense-GVT/DeCLIP)]
+- [DetCLIP: Dictionary-Enriched Visual-Concept Paralleled Pre-training for Open-world Detection](https://arxiv.org/pdf/2209.09407.pdf) [code]
 - [UniCLIP: Unified Framework for Contrastive Language–Image Pre-training](https://arxiv.org/pdf/2209.13430.pdf) [code]
 - [SpeechCLIP: Integrating Speech with Pre-Trained Vision and Language Model](https://arxiv.org/pdf/2210.00705.pdf) [[code](https://github.com/atosystem/SpeechCLIP)]
 - [Chinese CLIP: Contrastive Vision-Language Pretraining in Chinese](https://arxiv.org/pdf/2211.01335.pdf) [[code](https://github.com/OFA-Sys/Chinese-CLIP)]
